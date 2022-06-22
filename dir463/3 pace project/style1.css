@@ -1,0 +1,136 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 14;
+}
+
+body{
+    display: flex;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: url(../mango\ forest.jpg);
+}
+
+
+/* ===============New Account=========== */
+
+
+
+#container{
+    width: 200px;
+    height: 450px;
+    background: linear-gradient(#c8f3ca, #5f7958) ;
+    padding: 8px;
+    border: 4px solid rgb(11, 41, 11);
+    border-radius: 8px;
+}
+
+.h1{
+    font-style: italic;
+    text-align: center;
+    line-height: 40px;
+}
+
+#container [type="submit"]{
+    background-color: rgba(194, 153, 78, 0.719);
+    border: #262e24;
+    border-radius: 8px;
+    margin: 4px 5px 0px 60px;
+    font-size: 20px;;
+    border: #0b0f0a;
+    line-height: 30px;
+    outline: none;
+}
+
+.NL{
+    text-align: center;
+    line-height: 16px;
+    line-height: 25px;
+/* }
+div [type="link text"]{
+    color: black;
+} */
+}
+
+
+/* =======================Forget Password========= */
+
+#containertwo{
+    width: 200px;
+    height: 360px;
+    background: linear-gradient(#c8f3ca, #5f7958) ;
+    padding: 8px;
+    border: 4px solid rgb(11, 41, 11);
+    border-radius: 8px;
+}
+
+#containertwo [type="submit"]{
+    background-color: rgba(194, 153, 78, 0.719);
+    border: #262e24;
+    border-radius: 8px;
+    margin: 4px 5px 0px 60px;
+    font-size: 20px;;
+    border: #0b0f0a;
+    line-height: 30px;
+    outline: none;
+}
+
+
+=======================Login======================
+
+#containerlogin{
+    width: 200px;
+    height: 360px;
+    background: linear-gradient(#c8f3ca, #5f7958) ;
+    padding: 8px;
+    border: 4px solid rgb(11, 41, 11);
+    border-radius: 8px;
+}
+
+#containerlogin [type="submit"]{
+    background-color: rgba(194, 153, 78, 0.719);
+    border: #262e24;
+    border-radius: 8px;
+    margin: 4px 5px 0px 60px;
+    font-size: 20px;;
+    border: #0b0f0a;
+    line-height: 30px;
+    outline: none;
+}
+
+
+
+/* ==========================Forget Password================ */
+
+
+
+#containerlogin{
+    width: 200px;
+    height: 250px;
+    background: linear-gradient(#c8f3ca, #5f7958) ;
+    padding: 8px;
+    border: 4px solid rgb(11, 41, 11);
+    border-radius: 8px;
+}
+
+#containerlagin [type="submit"]{
+    background-color: rgba(194, 153, 78, 0.719);
+    border: #262e24;
+    border-radius: 8px;
+    margin: 4px 5px 0px 60px;
+    font-size: 20px;;
+    border: #0b0f0a;
+    line-height: 30px;
+    outline: none;
+}
+
+
+#containerlogin .h1{
+    font-style: italic;
+    text-align: center;
+    line-height: 45px;
+}
